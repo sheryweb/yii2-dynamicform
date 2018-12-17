@@ -1,6 +1,6 @@
 <?php
 
-namespace shery\dynamicform;
+namespace sheryweb\dynamicform;
 
 use Yii;
 use yii\helpers\Html;
