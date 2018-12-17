@@ -1,5 +1,5 @@
 {
-    "name": "shery/yii2-dynamicform",
+    "name": "sheryweb/yii2-dynamicform",
     "type": "yii2-extension",
     "require": {
         "yiisoft/yii2": "~2.0.6"
@@ -7,7 +7,7 @@
     "license": "BSD-3-Clause",
     "autoload": {
         "psr-4": {
-            "shery\\dynamicform\\": "src"
+            "sheryweb\\dynamicform\\": "src"
         }
     }
 }
