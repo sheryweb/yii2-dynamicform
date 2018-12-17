@@ -1,6 +1,6 @@
 <?php
 
-namespace shery\dynamicform;
+namespace sheryweb\dynamicform;
 
 /**
  * Asset bundle for dynamicform Widget
