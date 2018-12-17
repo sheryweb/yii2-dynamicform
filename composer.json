@@ -1,0 +1,14 @@
+{
+    "name": "shery/yii2-dynamicform",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "~2.0.6"
+    },
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "shery\\dynamicform\\": "src"
+        }
+    }
+}
